@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-#Noah wrote this code
+#Maddie wrote this code
 def plot_positive_negative_chart_lasso_importance(dataframe):
     snp_col = 'Feature'
     importance_col = 'Importance'
